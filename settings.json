@@ -1,11 +1,12 @@
 {
     "editor.semanticHighlighting.enabled": false,
-    "editor.fontFamily": "Fira Code",
+    "editor.fontFamily": "FiraCode Nerd Font, Noto Color Emoji",
     "editor.fontSize": 16,
     "editor.fontWeight": "430",
+    "editor.fontLigatures": true,
     "editor.minimap.enabled": false,
     "editor.insertSpaces": true,
-    "terminal.integrated.fontFamily": "Fira Code",
+    "terminal.integrated.fontFamily": "FiraCode Nerd Font, Noto Color Emoji",
     "security.workspace.trust.untrustedFiles": "open",
     "oneDarkPro.editorTheme": "oneDarkProFlat",
     "workbench.colorCustomizations": {
@@ -44,4 +45,7 @@
     "workbench.colorTheme": "Plastic",
     "workbench.iconTheme": "helium-icon-theme",
     "vscode-neovim.neovimExecutablePaths.linux": "/usr/bin/nvim",
+    "glsl-linter.validatorPath": "/usr/bin/glslangValidator",
+    "github.gitAuthentication": false,
+    "hediet.vscode-drawio.local-storage": "eyIuZHJhd2lvLWNvbmZpZyI6IntcImxhbmd1YWdlXCI6XCJcIixcImN1c3RvbUZvbnRzXCI6W10sXCJsaWJyYXJpZXNcIjpcImdlbmVyYWxcIixcImN1c3RvbUxpYnJhcmllc1wiOltcIkwuc2NyYXRjaHBhZFwiXSxcInBsdWdpbnNcIjpbXSxcInJlY2VudENvbG9yc1wiOltdLFwiZm9ybWF0V2lkdGhcIjpcIjI0MFwiLFwiY3JlYXRlVGFyZ2V0XCI6ZmFsc2UsXCJwYWdlRm9ybWF0XCI6e1wieFwiOjAsXCJ5XCI6MCxcIndpZHRoXCI6ODUwLFwiaGVpZ2h0XCI6MTEwMH0sXCJzZWFyY2hcIjp0cnVlLFwic2hvd1N0YXJ0U2NyZWVuXCI6dHJ1ZSxcImdyaWRDb2xvclwiOlwiI2QwZDBkMFwiLFwiZGFya0dyaWRDb2xvclwiOlwiIzZlNmU2ZVwiLFwiYXV0b3NhdmVcIjp0cnVlLFwicmVzaXplSW1hZ2VzXCI6bnVsbCxcIm9wZW5Db3VudGVyXCI6MCxcInZlcnNpb25cIjoxOCxcInVuaXRcIjoxLFwiaXNSdWxlck9uXCI6ZmFsc2UsXCJ1aVwiOlwiXCJ9In0=",
 }
